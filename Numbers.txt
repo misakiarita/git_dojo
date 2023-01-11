@@ -1,4 +1,4 @@
-1 今日はgit道場に参加してる  hoge
+1 明日はgit道場に参加してる  hoge
 2 どんな編集をしたらいいかわからないが hoge
 4 hoge
 3 コンフリクトするのは怖い hoge
@@ -10,8 +10,4 @@
 10 hoge
 11 hoge
 12 hoge
-13 hoge
-14 hoge
-15 hoge
-16ji
-17@@@@@@q
+13 hogeq
